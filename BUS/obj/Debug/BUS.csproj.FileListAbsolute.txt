@@ -1,0 +1,90 @@
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\BUS.dll.config
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\DAL.dll
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\DAL.pdb
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\DAL.dll.config
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+D:\Nhi\DoAn\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nhi\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Nhi\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Nhi\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Nhi\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+D:\Nhi\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\BUS.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\BUS.dll.config
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\DAL.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\DAL.pdb
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\DAL.dll.config
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\BUS.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\BUS\obj\Debug\BUS.pdb
+D:\Nhi\DoAn\BUS\bin\Debug\BUS.dll.config
+D:\Nhi\DoAn\BUS\bin\Debug\BUS.dll
+D:\Nhi\DoAn\BUS\bin\Debug\BUS.pdb
+D:\Nhi\DoAn\BUS\bin\Debug\DAL.dll
+D:\Nhi\DoAn\BUS\bin\Debug\EntityFramework.dll
+D:\Nhi\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nhi\DoAn\BUS\bin\Debug\DAL.pdb
+D:\Nhi\DoAn\BUS\bin\Debug\DAL.dll.config
+D:\Nhi\DoAn\BUS\bin\Debug\EntityFramework.xml
+D:\Nhi\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nhi\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Nhi\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Nhi\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Nhi\DoAn\BUS\obj\Debug\BUS.dll
+D:\Nhi\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\BUS.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\BUS\obj\Debug\BUS.pdb
