@@ -1,0 +1,72 @@
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\DAL.dll.config
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\DAL.dll
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\DAL.pdb
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\EntityFramework.dll
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\EntityFramework.xml
+D:\Nhi\DoAn\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nhi\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhi\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhi\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhi\DoAn\DoAn\DAL\obj\Debug\DAL.dll
+D:\Nhi\DoAn\DoAn\DAL\obj\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn\DoAn\DAL\obj\Debug\DAL.pdb
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\DAL.dll.config
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\EntityFramework.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\EntityFramework.xml
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\STEVE\Downloads\DoAn2\DoAn\DAL\obj\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn3\DoAn\DAL\obj\Debug\DAL.pdb
+D:\Nhi\DoAn\DAL\bin\Debug\DAL.dll.config
+D:\Nhi\DoAn\DAL\bin\Debug\DAL.dll
+D:\Nhi\DoAn\DAL\bin\Debug\DAL.pdb
+D:\Nhi\DoAn\DAL\bin\Debug\EntityFramework.dll
+D:\Nhi\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nhi\DoAn\DAL\bin\Debug\EntityFramework.xml
+D:\Nhi\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nhi\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhi\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhi\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhi\DoAn\DAL\obj\Debug\DAL.dll
+D:\Nhi\DoAn\DAL\obj\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\DAL.dll.config
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\EntityFramework.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\EntityFramework.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\hn052\OneDrive\Desktop\DoAn6 (1)\DoAn\DAL\obj\Debug\DAL.pdb
